@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Floorp Randomize Extension",
+  "name": "TextCensor",
   "version": "1.0",
   "description": "Randomizes selected text into a nonsensical string with a blur effect.",
   "permissions": [
