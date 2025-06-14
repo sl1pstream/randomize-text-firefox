@@ -15,12 +15,22 @@ This extension allows users to randomize selected text into a nonsensical string
 
 ## Installation
 
+### Temporary Installation
+
 1. Download or clone the repository.
 2. Open the Floorp browser.
 3. Navigate to `about:debugging`.
 4. Click on "This Firefox" or "This Floorp".
 5. Click on "Load Temporary Add-on".
 6. Select the `manifest.json` file from the `floorp-randomize-extension` directory.
+
+### Permanent Installation
+
+1. Enter the `floorp-randomize-extension` folder.
+2. Select all files and folders inside (not the folder itself) and compress them into a `.zip` file.
+3. Open Floorp or Firefox and go to `about:addons`.
+4. Click the Settings (gear) icon and choose "Install Add-on From File...".
+5. Select the `.zip` file you just created to install the extension permanently.
 
 ## Usage
 
