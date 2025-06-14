@@ -1,5 +1,11 @@
 # Floorp Randomize Extension
 
+**This is an AI-generated extension (GitHub Copilot running GPT 4.1).** While I have extensively tested different iterations of this extension before publishing this version, as with anything I publish, I will warn you to use at your own risk.
+
+**This extension is not an original idea.** This extension was made thanks to the idea from ThioJoe's video, [You're Using AI WRONG - Surprising Capabilities You Didn't Know](https://youtu.be/YDiVl9q08DY?si=zITYwjjLCEPlJPjw&t=128) (the link is timestamped to where he talks about this). I just used AI to do the same thing but for Firefox-based browsers.
+
+**I have only tested this extension on Floorp.** As Floorp is a Firefox-based browser, I expect it handles extensions the same as Firefox or any of the other mainstream forks. I have not tested this so if there is an issue on a different Firefox-based browesr, pleaes open an issue for it.
+
 This extension allows users to randomize selected text into a nonsensical string when they alt-click on it. The original text will be blurred to emphasize the randomized output.
 
 ## Features
