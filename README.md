@@ -1,4 +1,4 @@
-# Floorp Randomize Extension
+# ~~Floorp Randomize Extension~~ TextCensor
 
 **This is an AI-generated extension (GitHub Copilot running GPT 4.1).** While I have extensively tested different iterations of this extension before publishing this version, as with anything I publish, I will warn you to use at your own risk.
 
